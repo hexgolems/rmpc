@@ -5,3 +5,4 @@ authors = ["Felix Glaser <leex@klautcomputing.com>"]
 
 [dependencies]
 rustty = { git = "https://github.com/cpjreynolds/rustty" }
+mpd = "0.0.11"
